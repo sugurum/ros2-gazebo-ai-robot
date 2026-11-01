@@ -3,7 +3,7 @@
   <name>ai_robot</name>
   <version>0.1.0</version>
   <description>Natural-language AI planner and ROS 2 waypoint controller for Gazebo.</description>
-  <maintainer email="suguru@todo.todo">suguru</maintainer>
+  <maintainer email="noreply@example.invalid">anonymous</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_python</buildtool_depend>
